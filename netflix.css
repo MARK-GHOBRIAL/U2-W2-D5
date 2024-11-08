@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+}
+
+h2 {
+    color: aliceblue;
+    
+    font-size: 15px;
+    margin-bottom: 0.8em;
+}
+section {
+    margin-bottom: 2em;
+    margin-left: 1.5em;
+}
+
+.btn{
+    bs-btn-border-color: black
+}
+
+article div p {
+    color: rgb(61, 62, 63);
+}
+
+#fine {
+    color: rgb(72, 76, 81);
+    margin-top: 1em;
+}
